@@ -20,8 +20,13 @@ Generators - Generadores <br>
 https://hype4.academy/tools/glassmorphism-generator  <br>
 https://hype4.academy/tools/claymorphism-generator  <br>
 https://hype4.academy/tools/neumorphism-generator  <br>
-https://neumorphism.io/
-https://cssarrowplease.com/
+https://neumorphism.io/ <br>
+https://cssarrowplease.com/ <br>
+https://mycolor.space/ <br>
+https://cssgradient.io/ <br>
+https://gradienta.io/editor <br>
+https://www.blobmaker.app/ <br>
+https://getwaves.io/
 #
 Free icons - Iconos gratis <br>
 https://lordicon.com/
