@@ -17,6 +17,7 @@ https://cssgrid-generator.netlify.app/ <br>
 https://the-echoplex.net/flexyboxes/
 #
 Generators - Generadores <br>
+https://formito.com/tools/favicon
 https://hype4.academy/tools/glassmorphism-generator  <br>
 https://hype4.academy/tools/claymorphism-generator  <br>
 https://hype4.academy/tools/neumorphism-generator  <br>
