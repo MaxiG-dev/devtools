@@ -7,7 +7,8 @@ Minify <br>
 https://minifier.org/
 #
 Multi tools <br>
-https://codebeautify.org/
+https://codebeautify.org/ <br>
+https://www.html-code-generator.com/
 #
 Animations CSS - Animaciones CSS <br>
 https://animista.net/
