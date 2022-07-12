@@ -26,6 +26,7 @@ https://neumorphism.io/ <br>
 https://cssarrowplease.com/ <br>
 https://mycolor.space/ <br>
 https://cssgradient.io/ <br>
+https://webgradients.com/ <br>
 https://gradienta.io/editor <br>
 https://www.blobmaker.app/ <br>
 https://getwaves.io/
