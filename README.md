@@ -4,7 +4,8 @@ Validator - Validador <br>
 https://validator.w3.org/
 #
 Minify <br>
-https://minifier.org/
+https://minifier.org/ <br>
+https://www.toptal.com/developers/javascript-minifier
 #
 Multi tools <br>
 https://codebeautify.org/ <br>
