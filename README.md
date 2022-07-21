@@ -1,22 +1,22 @@
 # dev tools
 
 Validator - Validador <br>
-https://validator.w3.org/
+https://validator.w3.org
 #
 Minify <br>
-https://minifier.org/ <br>
+https://minifier.org <br>
 https://www.toptal.com/developers/javascript-minifier
 #
 Multi tools <br>
-https://codebeautify.org/ <br>
-https://www.html-code-generator.com/
+https://codebeautify.org <br>
+https://www.html-code-generator.com
 #
 Animations CSS - Animaciones CSS <br>
-https://animista.net/
+https://animista.net
 #
 Grid & Flex CSS <br>
-https://cssgrid-generator.netlify.app/ <br>
-https://the-echoplex.net/flexyboxes/
+https://cssgrid-generator.netlify.app <br>
+https://the-echoplex.net/flexyboxes
 #
 Gradients <br>
 https://cssgradient.io/gradient-backgrounds/<br>
