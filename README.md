@@ -37,7 +37,8 @@ https://www.blobmaker.app <br>
 https://getwaves.io
 #
 Free icons - Iconos gratis <br>
-https://lordicon.com
+https://lordicon.com <br>
+https://heroicons.com
 #
 Git Hub readme generator <br>
 https://profile-readme-generator.com
