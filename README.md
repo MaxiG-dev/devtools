@@ -38,7 +38,8 @@ https://getwaves.io
 #
 Free icons - Iconos gratis <br>
 https://lordicon.com <br>
-https://heroicons.com
+https://heroicons.com <br>
+https://simpleicons.org
 #
 Git Hub readme generator <br>
 https://profile-readme-generator.com
