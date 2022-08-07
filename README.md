@@ -36,6 +36,9 @@ https://mycolor.space <br>
 https://www.blobmaker.app <br>
 https://getwaves.io
 #
+Components - Componentes <br>
+https://uiverse.io
+#
 Free icons - Iconos gratis <br>
 https://lordicon.com <br>
 https://heroicons.com <br>
