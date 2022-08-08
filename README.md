@@ -16,7 +16,8 @@ https://animista.net
 #
 Grid & Flex CSS <br>
 https://cssgrid-generator.netlify.app <br>
-https://the-echoplex.net/flexyboxes
+https://the-echoplex.net/flexyboxes <br>
+https://layout.bradwoods.io
 #
 Gradients <br>
 https://cssgradient.io/gradient-backgrounds <br>
