@@ -51,3 +51,6 @@ https://profile-readme-generator.com
 #
 Test and practices <br>
 https://adventjs.dev
+#
+Algorithms <br>
+https://the-algorithms.com
