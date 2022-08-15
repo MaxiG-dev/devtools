@@ -1,4 +1,4 @@
-# My dev tools
+# My dev tools 👨‍💻
 
 Validator - Validador <br>
 https://validator.w3.org
@@ -38,7 +38,7 @@ https://mycolor.space <br>
 https://www.blobmaker.app <br>
 https://getwaves.io
 #
-Components - Componentes <br>
+Components <br>
 https://uiverse.io
 #
 Free icons - Iconos gratis <br>
