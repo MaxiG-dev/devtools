@@ -50,7 +50,8 @@ Git Hub readme generator <br>
 https://profile-readme-generator.com
 #
 Test and practices <br>
-https://adventjs.dev
+https://adventjs.dev <br>
+https://cssbattle.dev
 #
 Algorithms <br>
 https://the-algorithms.com
