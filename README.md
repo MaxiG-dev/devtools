@@ -42,7 +42,7 @@ Components <br>
 https://uiverse.io
 #
 CSS Specificity Graph <br>
-https://jonassebastianohlsson.com/specificity-graph/
+https://jonassebastianohlsson.com/specificity-graph
 #
 Free icons - Iconos gratis <br>
 https://lordicon.com <br>
