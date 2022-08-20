@@ -54,7 +54,13 @@ https://profile-readme-generator.com
 #
 Test and practices <br>
 https://adventjs.dev <br>
-https://cssbattle.dev
+https://cssbattle.dev <br>
+https://www.frontendmentor.io
 #
 Algorithms <br>
 https://the-algorithms.com
+#
+SuperCreators <br>
+https://midu.dev <br>
+https://eduardofierro.pro <br>
+https://manz.dev <br>
