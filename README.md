@@ -36,7 +36,8 @@ https://neumorphism.io <br>
 https://cssarrowplease.com <br>
 https://mycolor.space <br>
 https://www.blobmaker.app <br>
-https://getwaves.io
+https://getwaves.io <br> 
+https://bgjar.com
 #
 Components <br>
 https://uiverse.io
