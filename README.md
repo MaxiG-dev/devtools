@@ -40,7 +40,9 @@ https://getwaves.io <br>
 https://bgjar.com
 #
 Components <br>
-https://uiverse.io
+https://uiverse.io <br>
+https://freefrontend.com <br>
+https://www.codeply.com
 #
 CSS Specificity Graph <br>
 https://jonassebastianohlsson.com/specificity-graph
@@ -68,3 +70,6 @@ https://manz.dev <br>
 #
 SEO <br>
 https://metatags.io
+#
+Templates <br>
+https://uideck.com
