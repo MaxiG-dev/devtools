@@ -20,12 +20,14 @@ https://cssgrid-generator.netlify.app <br>
 https://the-echoplex.net/flexyboxes <br>
 https://layout.bradwoods.io
 #
-Gradients <br>
+Gradients - Colors <br>
 https://cssgradient.io/gradient-backgrounds <br>
 https://cssgradient.io <br>
 https://webgradients.com <br>
 https://www.designgradients.com <br>
-https://gradienta.io/editor
+https://gradienta.io/editor <br>
+https://mycolor.space <br>
+https://coolors.co
 #
 Generators - Generadores <br>
 https://formito.com/tools/favicon <br>
