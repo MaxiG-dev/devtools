@@ -14,7 +14,8 @@ https://transform.tools
 #
 Animations CSS <br>
 https://animista.net <br>
-https://keyframes.app
+https://keyframes.app <br>
+https://cubic-bezier.com
 #
 Grid & Flex CSS <br>
 https://cssgrid-generator.netlify.app <br>
