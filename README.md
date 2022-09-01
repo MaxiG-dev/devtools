@@ -63,7 +63,9 @@ https://profile-readme-generator.com
 Test and practices <br>
 https://adventjs.dev <br>
 https://cssbattle.dev <br>
-https://www.frontendmentor.io
+https://www.frontendmentor.io <br>
+https://www.sql-easy.com <br>
+https://www.sololearn.com
 #
 Algorithms <br>
 https://the-algorithms.com
