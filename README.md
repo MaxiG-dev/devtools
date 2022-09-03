@@ -73,7 +73,7 @@ https://the-algorithms.com
 SuperCreators <br>
 https://midu.dev <br>
 https://eduardofierro.pro <br>
-https://manz.dev <br>
+https://manz.dev
 #
 SEO <br>
 https://metatags.io
