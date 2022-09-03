@@ -55,7 +55,9 @@ https://jonassebastianohlsson.com/specificity-graph
 Free icons - Iconos gratis <br>
 https://lordicon.com <br>
 https://heroicons.com <br>
-https://simpleicons.org
+https://simpleicons.org <br>
+https://fontawesome.com/search <br>
+https://www.svgviewer.dev
 #
 Git Hub readme generator <br>
 https://profile-readme-generator.com
