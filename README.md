@@ -86,3 +86,6 @@ https://uideck.com
 #
 JSON generator <br>
 https://json-generator.com
+#
+API's <br>
+https://rapidapi.com/hub
