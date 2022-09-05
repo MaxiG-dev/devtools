@@ -82,7 +82,8 @@ SEO <br>
 https://metatags.io
 #
 Templates <br>
-https://uideck.com
+https://uideck.com <br>
+https://jitter.video
 #
 JSON generator <br>
 https://json-generator.com
