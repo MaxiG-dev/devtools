@@ -1,5 +1,8 @@
 # My dev tools 👨‍💻
 
+Easy responsive <br>
+https://responsively.app
+#
 Validator - Validador <br>
 https://validator.w3.org
 #
@@ -73,17 +76,13 @@ https://www.sololearn.com
 Algorithms <br>
 https://the-algorithms.com
 #
-SuperCreators <br>
-https://midu.dev <br>
-https://eduardofierro.pro <br>
-https://manz.dev
-#
 SEO <br>
 https://metatags.io
 #
 Templates <br>
 https://uideck.com <br>
-https://jitter.video
+https://jitter.video <br>
+https://freshdesignweb.com
 #
 JSON generator <br>
 https://json-generator.com
@@ -92,4 +91,14 @@ API's <br>
 https://rapidapi.com/hub
 #
 Documentation <br>
-https://devdocs.io
+https://devdocs.io <br>
+https://cssreference.io <br>
+https://devhints.io
+#
+Design <br>
+https://rive.app
+#
+SuperCreators <br>
+https://midu.dev <br>
+https://eduardofierro.pro <br>
+https://manz.dev
