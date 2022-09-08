@@ -90,3 +90,6 @@ https://json-generator.com
 #
 API's <br>
 https://rapidapi.com/hub
+#
+Documentation <br>
+https://devdocs.io
