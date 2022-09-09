@@ -68,6 +68,7 @@ https://profile-readme-generator.com
 #
 Test and practices <br>
 https://adventjs.dev <br>
+https://www.jschallenger.com <br>
 https://cssbattle.dev <br>
 https://www.frontendmentor.io <br>
 https://www.sql-easy.com <br>
