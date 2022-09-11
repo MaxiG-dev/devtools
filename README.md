@@ -1,4 +1,4 @@
-# 👨‍💻 My dev tools 👨‍💻
+# My dev tools 👨‍💻
 
 Easy responsive <br>
 https://responsively.app
