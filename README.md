@@ -25,7 +25,7 @@ https://cssgrid-generator.netlify.app <br>
 https://the-echoplex.net/flexyboxes <br>
 https://layout.bradwoods.io
 #
-Gradients - Colors <br>
+Gradients & Colors <br>
 https://cssgradient.io/gradient-backgrounds <br>
 https://cssgradient.io <br>
 https://webgradients.com <br>
@@ -34,7 +34,7 @@ https://gradienta.io/editor <br>
 https://mycolor.space <br>
 https://coolors.co
 #
-Generators - Generadores <br>
+Generators <br>
 https://formito.com/tools/favicon <br>
 https://hype4.academy/tools/glassmorphism-generator  <br>
 https://hype4.academy/tools/claymorphism-generator  <br>
@@ -56,7 +56,7 @@ https://ui-buttons.web.app
 CSS Specificity Graph <br>
 https://jonassebastianohlsson.com/specificity-graph
 #
-Free icons - Iconos gratis <br>
+Free icons <br>
 https://lordicon.com <br>
 https://heroicons.com <br>
 https://simpleicons.org <br>
