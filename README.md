@@ -89,6 +89,9 @@ https://freshdesignweb.com
 JSON generator <br>
 https://json-generator.com
 #
+DB generator <br>
+https://www.mockaroo.com
+#
 API's <br>
 https://rapidapi.com/hub
 #
