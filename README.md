@@ -73,7 +73,8 @@ https://www.jschallenger.com <br>
 https://cssbattle.dev <br>
 https://www.frontendmentor.io <br>
 https://www.sql-easy.com <br>
-https://www.sololearn.com
+https://www.sololearn.com <br>
+https://devchallenges.io
 #
 Algorithms <br>
 https://the-algorithms.com
