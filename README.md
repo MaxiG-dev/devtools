@@ -3,7 +3,7 @@
 Easy responsive <br>
 https://responsively.app
 #
-Validator - Validador <br>
+Validator <br>
 https://validator.w3.org
 #
 Minify <br>
