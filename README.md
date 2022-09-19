@@ -85,7 +85,8 @@ https://metatags.io
 Templates <br>
 https://uideck.com <br>
 https://jitter.video <br>
-https://freshdesignweb.com
+https://freshdesignweb.com <br>
+https://www.calltoidea.com
 #
 JSON Graph <br>
 https://jsoncrack.com/editor
