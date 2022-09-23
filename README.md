@@ -1,6 +1,6 @@
 # My dev tools 👨‍💻
 
-Easy responsive <br>
+Fast responsive <br>
 https://responsively.app
 #
 Validator <br>
