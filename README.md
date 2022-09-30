@@ -112,6 +112,9 @@ https://caniuse.com
 Design <br>
 https://rive.app
 #
+Extensions <br>
+<a href="https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc">Visual Bug</a>
+#
 SuperCreators <br>
 https://midu.dev <br>
 https://eduardofierro.pro <br>
