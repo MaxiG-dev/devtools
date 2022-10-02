@@ -113,7 +113,8 @@ Design <br>
 https://rive.app
 #
 Extensions <br>
-<a href="https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc">Visual Bug</a>
+<a href="https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc">Visual Bug</a> <br>
+<a href="https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce">Visual Bug</a>
 #
 SuperCreators <br>
 https://midu.dev <br>
