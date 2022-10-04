@@ -75,7 +75,8 @@ https://www.frontendmentor.io <br>
 https://www.sql-easy.com <br>
 https://www.sololearn.com <br>
 https://devchallenges.io <br>
-https://jscodebox.com
+https://jscodebox.com <br>
+https://warriorjs.com
 #
 Algorithms <br>
 https://the-algorithms.com
