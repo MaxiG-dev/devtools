@@ -76,7 +76,10 @@ https://www.sql-easy.com <br>
 https://www.sololearn.com <br>
 https://devchallenges.io <br>
 https://jscodebox.com <br>
-https://warriorjs.com
+#
+Games for practice <br>
+https://warriorjs.com <br>
+https://lab.reaal.me/jsrobot/#level=1&language=en
 #
 Algorithms <br>
 https://the-algorithms.com
