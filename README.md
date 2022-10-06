@@ -98,7 +98,8 @@ JSON Graph <br>
 https://jsoncrack.com/editor
 #
 JSON generator <br>
-https://json-generator.com
+https://json-generator.com <br>
+https://www.mockaroo.com
 #
 DB generator <br>
 https://www.mockaroo.com
