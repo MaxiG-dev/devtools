@@ -80,7 +80,8 @@ https://jscodebox.com <br>
 Games for practice <br>
 https://warriorjs.com <br>
 https://lab.reaal.me/jsrobot/#level=1&language=en <br>
-https://play.elevatorsaga.com
+https://play.elevatorsaga.com <br>
+https://flukeout.github.io
 #
 Algorithms <br>
 https://the-algorithms.com
